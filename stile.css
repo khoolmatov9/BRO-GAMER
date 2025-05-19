@@ -1,0 +1,79 @@
+body {
+  background-image: url(https://th.bing.com/th/id/OIP.Qx6BXsQBWzClv6m0R_uQ8gHaEK?rs=1&pid=ImgDetMain);
+  background-repeat: no-repeat;
+  background-size: cover ;
+  background-position: center;
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  margin: 0;
+  padding: 20px;
+  font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+  color: white;
+  margin: 20px;
+}
+
+.text {
+  color: rgb(10, 6, 0);
+  margin: 15px 0;
+}
+
+.card {
+    background-color: rgba(30, 30, 30, 0.6); 
+  color: white;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 25px auto;
+  text-align: center;
+  width: 320px;
+  box-shadow: 0 0 20px rgba(187, 51, 255, 0.4);
+}
+
+.ing, .Farcry {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.btn {
+  background-color: rgba(30, 30, 30, 0.6);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition:  0.3s;
+  transition: transform 0.3s ease;
+
+}
+
+.btn:hover {
+  transform: scale(0.8);
+  box-shadow: 0 0 30px rgba(255, 0, 255, 0.6);
+
+  background-color: #666;
+}
+.ing {
+  margin-left: -15px;
+}
+.description{
+    .description {
+  color: #ccc;
+  font-size: 16px;
+  margin: 10px 0;
+  text-align: center;
+  max-width: 300px;
+}
+}
+.ss {
+  color: black;
+}
